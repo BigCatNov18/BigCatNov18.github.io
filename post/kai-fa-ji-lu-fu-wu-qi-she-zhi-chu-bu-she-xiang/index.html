@@ -1,60 +1,131 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+<meta charset="utf-8" >
+
 <title>开发记录 - 服务器设置，初步设想 | Garfield Yu</title>
-<link rel="shortcut icon" href="https://garfieldyu.github.io/favicon.ico?v=1560868943212">
+<meta name="description" content="关于记忆，关于我">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://garfieldyu.github.io/favicon.ico?v=1560869014682">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://garfieldyu.github.io/styles/main.css">
 
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
 
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://garfieldyu.github.io">
-  <img class="avatar" src="https://garfieldyu.github.io/images/avatar.png?v=1560868943212" alt="">
-  </a>
-  <h1 class="site-title">
-    Garfield Yu
-  </h1>
-  <p class="site-description">
-    关于记忆，关于我
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://garfieldyu.github.io">
+        <img class="avatar" src="https://garfieldyu.github.io/images/avatar.png?v=1560869014682" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://garfieldyu.github.io">
+        <h1 class="site-title">Garfield Yu</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">开发记录 - 服务器设置，初步设想</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-06-09</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://garfieldyu.github.io/tag/nCrPflRCQ">
+                    Server
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>现在有1台家用服务器，3台租用服务器</p>
+<p>第一台是mac mini改装的
+安装ubuntu 16，升级18ing
+主要作为网站服务器使用，穿透外网</p>
+<p>第二台是vultr的au服务器，只做代理服务器用</p>
+<p>第三台是阿里云的香港服务器，作为备用代理服务器使用，同时安装web/blog程序</p>
+<p>第四台是腾讯服务器，用作境外看国内内容的中转站使用，同时安装mysql服务</p>
+<p>要调试的内容：</p>
+<p>1.安装v2ray服务器，记录详细流程</p>
+<p>2.安装mysql服务器，测试</p>
+<p>3.安装nginx服务器，测试</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://garfieldyu.github.io/post/about">
+              <h3 class="post-title">
+                下一篇：关于鱼 / About Yu
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">关于记忆，关于我</div>
   <div class="social-container">
     
       
@@ -68,65 +139,26 @@
       
     
   </div>
+  Record by <a href="https://github.com/getgridea/gridea" target="_blank">Garfield Yu</a> | <a class="rss" href="https://garfieldyu.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              开发记录 - 服务器设置，初步设想
-            </h2>
-            <div class="post-info">
-              <time class="post-time">
-                · 2019-06-09 ·
-              </time>
-              
-                <a href="https://garfieldyu.github.io/tag/nCrPflRCQ" class="post-tag">
-                  # Server
-                </a>
-              
-            </div>
-            
-            <div class="post-content">
-              <p>现在有1台家用服务器，3台租用服务器</p>
-<p>第一台是mac mini改装的
-安装ubuntu 16，升级18ing
-主要作为网站服务器使用，穿透外网</p>
-<p>第二台是vultr的au服务器，只做代理服务器用</p>
-<p>第三台是阿里云的香港服务器，作为备用代理服务器使用，同时安装web/blog程序</p>
-<p>第四台是腾讯服务器，用作境外看国内内容的中转站使用，同时安装mysql服务</p>
-<p>要调试的内容：</p>
-<p>1.安装v2ray服务器，记录详细流程</p>
-<p>2.安装mysql服务器，测试</p>
-<p>3.安装nginx服务器，测试</p>
+    </div>
+    <script type="application/javascript">
 
-            </div>
-          </article>
-        </div>
+hljs.initHighlightingOnLoad()
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://garfieldyu.github.io/post/about">
-              <h3 class="post-title">
-                关于鱼 / About Yu
-              </h3>
-            </a>
-          </div>
-        
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-        
-
-        <div class="site-footer">
-  Record by <a href="https://github.com/getgridea/gridea" target="_blank">Garfield Yu</a> | 
-  <a class="rss" href="https://garfieldyu.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-<script>
-  hljs.initHighlightingOnLoad()
 </script>
 
-      </div>
-    </div>
+
+
+
   </body>
 </html>
