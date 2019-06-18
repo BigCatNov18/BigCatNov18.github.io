@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://garfieldyu.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-18T07:26:22.530Z</updated>
+    <updated>2019-06-18T07:27:23.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://garfieldyu.github.io"/>
     <link rel="self" href="https://garfieldyu.github.io/atom.xml"/>
@@ -16,27 +16,6 @@
         <link href="https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou">
         </link>
         <updated>2019-06-10T14:40:05.000Z</updated>
-        <content type="html"><![CDATA[<p>相关已经执行的内容：</p>
-<p>一、服务器升级
-1.将ubuntu服务器升级至18.4.2
-2.尝试重新制作ubuntu的安装盘，参考
-https://www.jianshu.com/p/8f99d190e6c3</p>
-<p>二、设置反向代理
-1.设置反向代理
-https://toutyrater.github.io/app/reverse2.html</p>
-<p>2.初步成功，但是只能访问固定端口
-问题并没有解决</p>
-<p>三、升级18.4.2之后，原有服务器出现nginx问题，使用命令行
-apt-get remove --purge nginx nginx-full nginx-common
-清除后，重新安装，问题解决</p>
-<p>四、删除了旧服务器中的/var/www/html文件夹中的部分文件，只保留了一个index.html</p>
-<p>下一步目标：
-1.继续设置反向代理，争取找出方法可以穿透局域网，让服务器HOME的各项服务都可以在家以外的地区使用
-2.设置代理，让腾讯云beijing服务器，可以在境外访问国内资源
-3.在HOME中安装其他应用，可以在外同步电脑内容到服务器</p>
-<p>参考：
-https://www.v2ray.com/chapter_00/start.html</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[软件使用记录]]></title>
@@ -44,18 +23,6 @@ https://www.v2ray.com/chapter_00/start.html</p>
         <link href="https://garfieldyu.github.io/post/ruan-jian-shi-yong-ji-lu">
         </link>
         <updated>2019-06-10T14:37:36.000Z</updated>
-        <content type="html"><![CDATA[<p>一、系统工具
-1.homebrew
-地址 http://brew.sh
-安装命令
-/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;
-2.</p>
-<p>二、开发工具</p>
-<p>三、打印驱动 MG5280
-http://support-cn.canon-asia.com/contents/CN/ZH/0100566005.html
-http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
-下载安装</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开发记录 - 服务器设置，初步设想]]></title>
@@ -63,18 +30,6 @@ http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
         <link href="https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang">
         </link>
         <updated>2019-06-09T14:38:38.000Z</updated>
-        <content type="html"><![CDATA[<p>现在有1台家用服务器，3台租用服务器</p>
-<p>第一台是mac mini改装的
-安装ubuntu 16，升级18ing
-主要作为网站服务器使用，穿透外网</p>
-<p>第二台是vultr的au服务器，只做代理服务器用</p>
-<p>第三台是阿里云的香港服务器，作为备用代理服务器使用，同时安装web/blog程序</p>
-<p>第四台是腾讯服务器，用作境外看国内内容的中转站使用，同时安装mysql服务</p>
-<p>要调试的内容：</p>
-<p>1.安装v2ray服务器，记录详细流程</p>
-<p>2.安装mysql服务器，测试</p>
-<p>3.安装nginx服务器，测试</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于鱼 / About Yu]]></title>
@@ -82,7 +37,5 @@ http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
         <link href="https://garfieldyu.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>关于我自己</p>
-]]></content>
     </entry>
 </feed>
