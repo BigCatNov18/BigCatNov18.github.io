@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://garfieldyu.github.io</id>
+    <id>https://BogCatNov18.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-19T01:28:59.642Z</updated>
+    <updated>2019-06-19T02:02:42.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://garfieldyu.github.io"/>
-    <link rel="self" href="https://garfieldyu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://BogCatNov18.github.io"/>
+    <link rel="self" href="https://BogCatNov18.github.io/atom.xml"/>
     <subtitle>关于记忆，关于我</subtitle>
-    <logo>https://garfieldyu.github.io/images/avatar.png</logo>
-    <icon>https://garfieldyu.github.io/favicon.ico</icon>
+    <logo>https://BogCatNov18.github.io/images/avatar.png</logo>
+    <icon>https://BogCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Garfield Yu</rights>
     <entry>
         <title type="html"><![CDATA[开发记录 -服务器设置-关于内网服务器穿透]]></title>
-        <id>https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou</id>
-        <link href="https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou">
+        <id>https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou</id>
+        <link href="https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou">
         </link>
         <updated>2019-06-10T14:40:05.000Z</updated>
         <content type="html"><![CDATA[<p>相关已经执行的内容：</p>
@@ -40,8 +40,8 @@ https://www.v2ray.com/chapter_00/start.html</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[软件使用记录]]></title>
-        <id>https://garfieldyu.github.io/post/ruan-jian-shi-yong-ji-lu</id>
-        <link href="https://garfieldyu.github.io/post/ruan-jian-shi-yong-ji-lu">
+        <id>https://BogCatNov18.github.io/post/ruan-jian-shi-yong-ji-lu</id>
+        <link href="https://BogCatNov18.github.io/post/ruan-jian-shi-yong-ji-lu">
         </link>
         <updated>2019-06-10T14:37:36.000Z</updated>
         <content type="html"><![CDATA[<p>一、系统工具
@@ -59,8 +59,8 @@ http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
     </entry>
     <entry>
         <title type="html"><![CDATA[开发记录 - 服务器设置，初步设想]]></title>
-        <id>https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang</id>
-        <link href="https://garfieldyu.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang">
+        <id>https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang</id>
+        <link href="https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang">
         </link>
         <updated>2019-06-09T14:38:38.000Z</updated>
         <content type="html"><![CDATA[<p>现在有1台家用服务器，3台租用服务器</p>
@@ -78,11 +78,16 @@ http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
     </entry>
     <entry>
         <title type="html"><![CDATA[关于鱼 / About Yu]]></title>
-        <id>https://garfieldyu.github.io/post/about</id>
-        <link href="https://garfieldyu.github.io/post/about">
+        <id>https://BogCatNov18.github.io/post/about</id>
+        <link href="https://BogCatNov18.github.io/post/about">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>关于我自己</p>
+        <updated>2019-05-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>This is about ....</p>
+<pre><code>My Study Notes
+</code></pre>
+<p>&amp; My Server Records
+&amp; My hobbies
+&amp; Me</p>
 ]]></content>
     </entry>
 </feed>
