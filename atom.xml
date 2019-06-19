@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-06-19T11:00:46.302Z</updated>
+    <updated>2019-06-19T11:20:51.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -130,13 +130,12 @@ Love u.</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hooooo]]></title>
-        <id>https://BigCatNov18.github.io/post/hooooo</id>
-        <link href="https://BigCatNov18.github.io/post/hooooo">
+        <title type="html"><![CDATA[Can I record everything here]]></title>
+        <id>https://BigCatNov18.github.io/post/can-i-record-everything-here</id>
+        <link href="https://BigCatNov18.github.io/post/can-i-record-everything-here">
         </link>
-        <updated>2019-06-11T10:19:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914382483.jpeg" alt=""></p>
-<p>So Sexy</p>
+        <updated>2019-06-10T12:12:03.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914101719.jpeg" alt=""></p>
 ]]></content>
     </entry>
 </feed>
