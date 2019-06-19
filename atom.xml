@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BogCatNov18.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-19T02:03:05.681Z</updated>
+    <updated>2019-06-19T02:06:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BogCatNov18.github.io"/>
     <link rel="self" href="https://BogCatNov18.github.io/atom.xml"/>
@@ -11,69 +11,50 @@
     <icon>https://BogCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Garfield Yu</rights>
     <entry>
-        <title type="html"><![CDATA[开发记录 -服务器设置-关于内网服务器穿透]]></title>
-        <id>https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou</id>
-        <link href="https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-guan-yu-nei-wang-fu-wu-qi-chuan-tou">
+        <title type="html"><![CDATA[Day 3]]></title>
+        <id>https://BogCatNov18.github.io/post/day-3</id>
+        <link href="https://BogCatNov18.github.io/post/day-3">
         </link>
-        <updated>2019-06-10T14:40:05.000Z</updated>
-        <content type="html"><![CDATA[<p>相关已经执行的内容：</p>
-<p>一、服务器升级
-1.将ubuntu服务器升级至18.4.2
-2.尝试重新制作ubuntu的安装盘，参考
-https://www.jianshu.com/p/8f99d190e6c3</p>
-<p>二、设置反向代理
-1.设置反向代理
-https://toutyrater.github.io/app/reverse2.html</p>
-<p>2.初步成功，但是只能访问固定端口
-问题并没有解决</p>
-<p>三、升级18.4.2之后，原有服务器出现nginx问题，使用命令行
-apt-get remove --purge nginx nginx-full nginx-common
-清除后，重新安装，问题解决</p>
-<p>四、删除了旧服务器中的/var/www/html文件夹中的部分文件，只保留了一个index.html</p>
-<p>下一步目标：
-1.继续设置反向代理，争取找出方法可以穿透局域网，让服务器HOME的各项服务都可以在家以外的地区使用
-2.设置代理，让腾讯云beijing服务器，可以在境外访问国内资源
-3.在HOME中安装其他应用，可以在外同步电脑内容到服务器</p>
-<p>参考：
-https://www.v2ray.com/chapter_00/start.html</p>
+        <updated>2019-06-18T16:40:50.000Z</updated>
+        <content type="html"><![CDATA[<p>12点半，并没有新发朋友圈，我去睡了。</p>
+<p>该说什么好呢，真的要结束了么，我到底应该打过去，还是应该等待一个月的约定。操。。。。心彻底乱了，不知道该说什么，不知道该做什么。。。。我不懂，真的不懂，你到底那些说的是真的，那些不是。我真的是那么渣么？我搞不清你说的点。</p>
+<p>好吧，准备在一周内，写一封长信给你，我要为这段感情做最后一次努力。</p>
+<p>心静不下来，一个字都写不出，只是对着电脑发呆，好多想说的，但是，不知道该从哪里说起。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[软件使用记录]]></title>
-        <id>https://BogCatNov18.github.io/post/ruan-jian-shi-yong-ji-lu</id>
-        <link href="https://BogCatNov18.github.io/post/ruan-jian-shi-yong-ji-lu">
+        <title type="html"><![CDATA[Day 2]]></title>
+        <id>https://BogCatNov18.github.io/post/day-2</id>
+        <link href="https://BogCatNov18.github.io/post/day-2">
         </link>
-        <updated>2019-06-10T14:37:36.000Z</updated>
-        <content type="html"><![CDATA[<p>一、系统工具
-1.homebrew
-地址 http://brew.sh
-安装命令
-/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;
-2.</p>
-<p>二、开发工具</p>
-<p>三、打印驱动 MG5280
-http://support-cn.canon-asia.com/contents/CN/ZH/0100566005.html
-http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
-下载安装</p>
+        <updated>2019-06-17T23:55:28.000Z</updated>
+        <content type="html"><![CDATA[<p>开车到家，路上往回走的时候看到了新发朋友圈。是不是我太幼稚了，真的以为你说的一个月就是一个月，这难道只是个借口么。</p>
+<p>刚刚开车到单位的路上，忍不住的哭了，是我把一切想的太美好了么？</p>
+<p>没忍住，还是发了个红包给你，不知道你会不会回复。</p>
+<p>这回复，代表什么呢？看不懂了</p>
+<p>心里空空的，你知道么，想你，早已经变成了我生活中的一个习惯，只不过你不知道。因为是在心里，而不是挂在嘴上。这其实是我更自然的表达方式，你没发现过么。</p>
+<p>手机丢了？是哪个呢？放186那张卡的旧手机？</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[开发记录 - 服务器设置，初步设想]]></title>
-        <id>https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang</id>
-        <link href="https://BogCatNov18.github.io/post/kai-fa-ji-lu-fu-wu-qi-she-zhi-chu-bu-she-xiang">
+        <title type="html"><![CDATA[Day 1]]></title>
+        <id>https://BogCatNov18.github.io/post/day-1</id>
+        <link href="https://BogCatNov18.github.io/post/day-1">
         </link>
-        <updated>2019-06-09T14:38:38.000Z</updated>
-        <content type="html"><![CDATA[<p>现在有1台家用服务器，3台租用服务器</p>
-<p>第一台是mac mini改装的
-安装ubuntu 16，升级18ing
-主要作为网站服务器使用，穿透外网</p>
-<p>第二台是vultr的au服务器，只做代理服务器用</p>
-<p>第三台是阿里云的香港服务器，作为备用代理服务器使用，同时安装web/blog程序</p>
-<p>第四台是腾讯服务器，用作境外看国内内容的中转站使用，同时安装mysql服务</p>
-<p>要调试的内容：</p>
-<p>1.安装v2ray服务器，记录详细流程</p>
-<p>2.安装mysql服务器，测试</p>
-<p>3.安装nginx服务器，测试</p>
+        <updated>2019-06-17T04:19:07.000Z</updated>
+        <content type="html"><![CDATA[<p>一个月的时间或许会很长吧，尽量不去打扰你，但我会把心里想到的事情和说的话，都尽量多的记录在这里。一个月后让你看看，或许你会更明白我的想法。</p>
+<p>其实真的，你的想要的我明白，我懂，是那种无微不至的关怀，是那种从心里自然而然发出的爱，没有一丝的杂念。起码这些，是我对当初那两个月最深的记忆。</p>
+<p>2点，想你了，一直没吃饭，吃不下去</p>
+<p>刚刚吃了几块西瓜和一块面包，当晚饭了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ]]></title>
+        <id>https://BogCatNov18.github.io/post/new</id>
+        <link href="https://BogCatNov18.github.io/post/new">
+        </link>
+        <updated>2019-06-11T02:05:50.000Z</updated>
+        <content type="html"><![CDATA[<p>新的记忆</p>
 ]]></content>
     </entry>
     <entry>
@@ -82,12 +63,10 @@ http://gdlp01.c-wss.com/gds/0/0100005660/05/mcpd-mac-mg5200-16_20_0_0-ea21_3.dmg
         <link href="https://BogCatNov18.github.io/post/about">
         </link>
         <updated>2019-05-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>This is about ....</p>
-<pre><code>My Study Notes
-</code></pre>
-<p>&amp; My Server Records
-&amp; My hobbies
-&amp; Me</p>
+        <content type="html"><![CDATA[<p>My Life
+My Emotion
+My Love
+My Trip</p>
 ]]></content>
     </entry>
 </feed>
