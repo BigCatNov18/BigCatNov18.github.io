@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-19T03:15:57.862Z</updated>
+    <updated>2019-06-19T03:20:16.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -58,12 +58,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New ]]></title>
-        <id>https://BigCatNov18.github.io/post/new</id>
-        <link href="https://BigCatNov18.github.io/post/new">
+        <title type="html"><![CDATA[Hooooo]]></title>
+        <id>https://BigCatNov18.github.io/post/hooooo</id>
+        <link href="https://BigCatNov18.github.io/post/hooooo">
         </link>
-        <updated>2019-06-10T02:05:50.000Z</updated>
-        <content type="html"><![CDATA[<p>A new place to record my memory</p>
+        <updated>2019-06-11T10:19:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914382483.jpeg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
@@ -73,6 +73,15 @@
         </link>
         <updated>2019-05-27T07:12:03.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914101719.jpeg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New ]]></title>
+        <id>https://BigCatNov18.github.io/post/new</id>
+        <link href="https://BigCatNov18.github.io/post/new">
+        </link>
+        <updated>2019-05-25T14:05:50.000Z</updated>
+        <content type="html"><![CDATA[<p>A new place to record my memory</p>
 ]]></content>
     </entry>
     <entry>
