@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-06-19T11:21:31.538Z</updated>
+    <updated>2019-06-19T23:48:51.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 4]]></title>
+        <id>https://BigCatNov18.github.io/post/day-4</id>
+        <link href="https://BigCatNov18.github.io/post/day-4">
+        </link>
+        <updated>2019-06-19T23:47:32.000Z</updated>
+        <content type="html"><![CDATA[<p>好多想说的话，但是仍然是不知道要说哪些好</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 3]]></title>
         <id>https://BigCatNov18.github.io/post/day-3</id>
@@ -127,15 +136,6 @@ Love u.</p>
         </link>
         <updated>2019-06-12T04:19:34.000Z</updated>
         <content type="html"><![CDATA[<p>先占楼，等着有照片再回来修改</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I record everything here]]></title>
-        <id>https://BigCatNov18.github.io/post/can-i-record-everything-here</id>
-        <link href="https://BigCatNov18.github.io/post/can-i-record-everything-here">
-        </link>
-        <updated>2019-06-10T12:12:03.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914101719.jpeg" alt=""></p>
 ]]></content>
     </entry>
 </feed>
