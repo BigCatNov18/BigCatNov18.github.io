@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BogCatNov18.github.io</id>
+    <id>https://BigCatNov18.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-19T02:06:42.128Z</updated>
+    <updated>2019-06-19T02:07:49.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://BogCatNov18.github.io"/>
-    <link rel="self" href="https://BogCatNov18.github.io/atom.xml"/>
+    <link rel="alternate" href="https://BigCatNov18.github.io"/>
+    <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
     <subtitle>关于记忆，关于我</subtitle>
-    <logo>https://BogCatNov18.github.io/images/avatar.png</logo>
-    <icon>https://BogCatNov18.github.io/favicon.ico</icon>
+    <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
+    <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Garfield Yu</rights>
     <entry>
         <title type="html"><![CDATA[Day 3]]></title>
-        <id>https://BogCatNov18.github.io/post/day-3</id>
-        <link href="https://BogCatNov18.github.io/post/day-3">
+        <id>https://BigCatNov18.github.io/post/day-3</id>
+        <link href="https://BigCatNov18.github.io/post/day-3">
         </link>
         <updated>2019-06-18T16:40:50.000Z</updated>
         <content type="html"><![CDATA[<p>12点半，并没有新发朋友圈，我去睡了。</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Day 2]]></title>
-        <id>https://BogCatNov18.github.io/post/day-2</id>
-        <link href="https://BogCatNov18.github.io/post/day-2">
+        <id>https://BigCatNov18.github.io/post/day-2</id>
+        <link href="https://BigCatNov18.github.io/post/day-2">
         </link>
         <updated>2019-06-17T23:55:28.000Z</updated>
         <content type="html"><![CDATA[<p>开车到家，路上往回走的时候看到了新发朋友圈。是不是我太幼稚了，真的以为你说的一个月就是一个月，这难道只是个借口么。</p>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Day 1]]></title>
-        <id>https://BogCatNov18.github.io/post/day-1</id>
-        <link href="https://BogCatNov18.github.io/post/day-1">
+        <id>https://BigCatNov18.github.io/post/day-1</id>
+        <link href="https://BigCatNov18.github.io/post/day-1">
         </link>
         <updated>2019-06-17T04:19:07.000Z</updated>
         <content type="html"><![CDATA[<p>一个月的时间或许会很长吧，尽量不去打扰你，但我会把心里想到的事情和说的话，都尽量多的记录在这里。一个月后让你看看，或许你会更明白我的想法。</p>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[New ]]></title>
-        <id>https://BogCatNov18.github.io/post/new</id>
-        <link href="https://BogCatNov18.github.io/post/new">
+        <id>https://BigCatNov18.github.io/post/new</id>
+        <link href="https://BigCatNov18.github.io/post/new">
         </link>
         <updated>2019-06-11T02:05:50.000Z</updated>
         <content type="html"><![CDATA[<p>新的记忆</p>
@@ -59,8 +59,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于鱼 / About Yu]]></title>
-        <id>https://BogCatNov18.github.io/post/about</id>
-        <link href="https://BogCatNov18.github.io/post/about">
+        <id>https://BigCatNov18.github.io/post/about</id>
+        <link href="https://BigCatNov18.github.io/post/about">
         </link>
         <updated>2019-05-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<p>My Life
