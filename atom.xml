@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>Garfield Yu</title>
-    <updated>2019-06-19T02:09:50.466Z</updated>
+    <updated>2019-06-19T03:15:57.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -18,7 +18,7 @@
         <updated>2019-06-18T16:40:50.000Z</updated>
         <content type="html"><![CDATA[<p>12点半，并没有新发朋友圈，我去睡了。</p>
 <p>该说什么好呢，真的要结束了么，我到底应该打过去，还是应该等待一个月的约定。操。。。。心彻底乱了，不知道该说什么，不知道该做什么。。。。我不懂，真的不懂，你到底那些说的是真的，那些不是。我真的是那么渣么？我搞不清你说的点。</p>
-<p>好吧，准备在一周内，写一封长信给你，我要为这段感情做最后一次努力。</p>
+<p>好吧，准备在一周内，写一封长信给你，我要为这段感情再努力一次。</p>
 <p>心静不下来，一个字都写不出，只是对着电脑发呆，好多想说的，但是，不知道该从哪里说起。</p>
 ]]></content>
     </entry>
@@ -49,16 +49,34 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Feeling About us]]></title>
+        <id>https://BigCatNov18.github.io/post/my-feeling-about-us</id>
+        <link href="https://BigCatNov18.github.io/post/my-feeling-about-us">
+        </link>
+        <updated>2019-06-14T03:07:30.000Z</updated>
+        <content type="html"><![CDATA[<p>Better and better, I just started to get back the feeling before, Love u</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New ]]></title>
         <id>https://BigCatNov18.github.io/post/new</id>
         <link href="https://BigCatNov18.github.io/post/new">
         </link>
-        <updated>2019-06-11T02:05:50.000Z</updated>
+        <updated>2019-06-10T02:05:50.000Z</updated>
         <content type="html"><![CDATA[<p>A new place to record my memory</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于鱼 / About Yu]]></title>
+        <title type="html"><![CDATA[Can I record everything here]]></title>
+        <id>https://BigCatNov18.github.io/post/can-i-record-everything-here</id>
+        <link href="https://BigCatNov18.github.io/post/can-i-record-everything-here">
+        </link>
+        <updated>2019-05-27T07:12:03.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://BigCatNov18.github.io/post-images/1560914101719.jpeg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is About ]]></title>
         <id>https://BigCatNov18.github.io/post/about</id>
         <link href="https://BigCatNov18.github.io/post/about">
         </link>
@@ -67,6 +85,7 @@
 My Emotion
 My Love
 My Trip</p>
+<p>If you can see these , you must be the most important people to me.</p>
 ]]></content>
     </entry>
 </feed>
