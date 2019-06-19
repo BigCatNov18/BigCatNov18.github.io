@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
-    <title>Garfield Yu</title>
-    <updated>2019-06-19T04:06:15.955Z</updated>
+    <title>大猫猫🐱</title>
+    <updated>2019-06-19T04:07:07.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
     <subtitle>关于记忆，关于我</subtitle>
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Garfield Yu</rights>
+    <rights>All rights reserved 2019, 大猫猫🐱</rights>
     <entry>
         <title type="html"><![CDATA[Day 3]]></title>
         <id>https://BigCatNov18.github.io/post/day-3</id>
