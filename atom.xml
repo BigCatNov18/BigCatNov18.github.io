@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-06-23T15:30:05.848Z</updated>
+    <updated>2019-06-24T07:40:48.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 8]]></title>
+        <id>https://BigCatNov18.github.io/post/day-8</id>
+        <link href="https://BigCatNov18.github.io/post/day-8">
+        </link>
+        <updated>2019-06-24T06:55:34.000Z</updated>
+        <content type="html"><![CDATA[<p>不知道该说什么了，写了删，删了写的，好几遍了。。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 7]]></title>
         <id>https://BigCatNov18.github.io/post/day-7</id>
@@ -194,15 +203,6 @@ Love u.</p>
         </link>
         <updated>2019-06-12T04:36:21.000Z</updated>
         <content type="html"><![CDATA[<p>占楼</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【TRIP】Thailand]]></title>
-        <id>https://BigCatNov18.github.io/post/thailand</id>
-        <link href="https://BigCatNov18.github.io/post/thailand">
-        </link>
-        <updated>2019-06-12T04:33:57.000Z</updated>
-        <content type="html"><![CDATA[<p>先占楼，等着有照片再回来修改</p>
 ]]></content>
     </entry>
 </feed>
