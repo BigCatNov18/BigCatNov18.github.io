@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-06-24T15:51:29.622Z</updated>
+    <updated>2019-06-25T02:43:34.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 9]]></title>
+        <id>https://BigCatNov18.github.io/post/day-9</id>
+        <link href="https://BigCatNov18.github.io/post/day-9">
+        </link>
+        <updated>2019-06-25T02:09:06.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天公司的事，挺突然的，有些郁闷，结果晚上失眠到很晚。其实就是上周说过的，那种4x岁，对事业上的不确定性的危机感。真的真的，是压力山大。。。。</p>
+<p>不过有一点我要先说一下，这件事除了会影响到随后几个月我请假的次数，除此之外，不会对你想要的答案产生任何的影响。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 8]]></title>
         <id>https://BigCatNov18.github.io/post/day-8</id>
@@ -198,15 +208,6 @@
 Love u.</p>
 <p><img src="https://BigCatNov18.github.io/post-images/1560918801731.jpg" alt=""></p>
 <p>这张。。。我眼袋好重</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【TRIP】Macau 2nd]]></title>
-        <id>https://BigCatNov18.github.io/post/macau</id>
-        <link href="https://BigCatNov18.github.io/post/macau">
-        </link>
-        <updated>2019-06-12T04:36:21.000Z</updated>
-        <content type="html"><![CDATA[<p>占楼</p>
 ]]></content>
     </entry>
 </feed>
