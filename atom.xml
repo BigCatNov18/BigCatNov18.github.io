@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-07-03T05:34:13.317Z</updated>
+    <updated>2019-07-04T00:54:33.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 18]]></title>
+        <id>https://BigCatNov18.github.io/post/day-18</id>
+        <link href="https://BigCatNov18.github.io/post/day-18">
+        </link>
+        <updated>2019-07-04T00:51:52.000Z</updated>
+        <content type="html"><![CDATA[<p>很久没消息了，知道你会想很多，会痛。</p>
+<p>其实，我也一样的在痛。</p>
+<p>不知道你现在还看不看了，也不知道你还想不想看</p>
+<p>这里我会继续写下去，只不过，新的内容我会暂时隐藏起来吧。</p>
+<p>直到我们解决了问题之后</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 17]]></title>
         <id>https://BigCatNov18.github.io/post/day-17</id>
@@ -142,19 +155,6 @@
 <p>其实好想去跟李京吵一架啊，真的好想去吵，该管的不去管，该要求的不去要求，等在公司里把人都弄的懒散了，然后跑来说我？</p>
 <hr>
 <p>又被甩过来一个活，8.20-25，世界机器人大赛的主搭建竞标。刚刚结束加班回来，接下来的几天还要继续，希望能拿下来吧。压力能小点。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 8]]></title>
-        <id>https://BigCatNov18.github.io/post/day-8</id>
-        <link href="https://BigCatNov18.github.io/post/day-8">
-        </link>
-        <updated>2019-06-24T06:55:34.000Z</updated>
-        <content type="html"><![CDATA[<p>不知道该说什么了，写了删，删了写的，好几遍了。。。。</p>
-<hr>
-<p>今天，是真的不顺啊</p>
-<p>下午被说了。。。。李京，觉得我最近出去的太多了。。。。肯定是被SB在背后捅刀子了</p>
-<p>说是，从一月到现在公司整体效益不好，如果这样下去，大家只能88了。。。。我就操的</p>
 ]]></content>
     </entry>
 </feed>
