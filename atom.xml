@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-07-05T00:13:48.165Z</updated>
+    <updated>2019-07-06T01:22:11.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 20 祝我生日快乐]]></title>
+        <id>https://BigCatNov18.github.io/post/day-20-zhu-wo-sheng-ri-kuai-le</id>
+        <link href="https://BigCatNov18.github.io/post/day-20-zhu-wo-sheng-ri-kuai-le">
+        </link>
+        <updated>2019-07-06T01:17:53.000Z</updated>
+        <content type="html"><![CDATA[<p>41岁，之前的40个生日，从来没有哭醒过，这次是第一回。</p>
+<p>整个人就像被掏空一样。即使周围再多的祝福，也无法获得一丝丝的开心。</p>
+<p>而且面对朋友和家人的祝福，反而更加觉得好孤独。</p>
+<p>就像之前对你说过的，我最怕的，就是在人群中的那种孤独感。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 18]]></title>
         <id>https://BigCatNov18.github.io/post/day-18</id>
@@ -141,21 +153,6 @@
         </link>
         <updated>2019-06-26T01:46:45.000Z</updated>
         <content type="html"><![CDATA[<p>10天了，很想，很想。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 9]]></title>
-        <id>https://BigCatNov18.github.io/post/day-9</id>
-        <link href="https://BigCatNov18.github.io/post/day-9">
-        </link>
-        <updated>2019-06-25T02:09:06.000Z</updated>
-        <content type="html"><![CDATA[<p>昨天公司的事，挺突然的，有些郁闷，结果晚上失眠到很晚。其实就是上周说过的，那种4x岁，对事业上的不确定性的危机感。真的真的，是压力山大。。。。</p>
-<p>不过有一点我要先说一下，这件事除了会影响到随后几个月我请假的次数，除此之外，不会对你想要的答案产生任何的影响。</p>
-<hr>
-<p>近期老实点不到处跑了，之前约的上午10点的私教，也挪到了中午午休时候上课了。不知道，这算不算胆小呢？</p>
-<p>其实好想去跟李京吵一架啊，真的好想去吵，该管的不去管，该要求的不去要求，等在公司里把人都弄的懒散了，然后跑来说我？</p>
-<hr>
-<p>又被甩过来一个活，8.20-25，世界机器人大赛的主搭建竞标。刚刚结束加班回来，接下来的几天还要继续，希望能拿下来吧。压力能小点。</p>
 ]]></content>
     </entry>
 </feed>
