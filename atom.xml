@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-07-06T01:22:11.894Z</updated>
+    <updated>2019-07-07T00:32:23.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[Day 21]]></title>
+        <id>https://BigCatNov18.github.io/post/day-21</id>
+        <link href="https://BigCatNov18.github.io/post/day-21">
+        </link>
+        <updated>2019-07-06T17:27:38.000Z</updated>
+        <content type="html"><![CDATA[<p>雨中站了3个小时，换来了一个3:0，这是一天里唯一能让我开心的事吧</p>
+<p>球员谢场时候，又忍不住哭了，周围几个人都搞不清楚状况，我只能解释说：开心</p>
+<p>很少在自己的生日发朋友圈，也确实收到了大量的祝福</p>
+<p>但直到最后，也没能收到最想要的那一句</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day 20 祝我生日快乐]]></title>
         <id>https://BigCatNov18.github.io/post/day-20-zhu-wo-sheng-ri-kuai-le</id>
@@ -144,15 +156,6 @@
 第一，就是不要拉黑我，我不会再去扰乱你的感情生活，不会再给你带来压力，你刷卡上面如果有问题，我依然可以帮你解决。
 第二，就是希望如果你愿意，是否可以把messager里边我们的记录，或是我们一起时候的照片：你的、我的，还有你我一起的，发到qq邮箱给我吧。</p>
 <p>谢谢了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 10]]></title>
-        <id>https://BigCatNov18.github.io/post/day-10</id>
-        <link href="https://BigCatNov18.github.io/post/day-10">
-        </link>
-        <updated>2019-06-26T01:46:45.000Z</updated>
-        <content type="html"><![CDATA[<p>10天了，很想，很想。</p>
 ]]></content>
     </entry>
 </feed>
