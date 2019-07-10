@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-07-09T02:54:46.623Z</updated>
+    <updated>2019-07-10T15:56:36.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
+    <entry>
+        <title type="html"><![CDATA[今天 北京的天晴了]]></title>
+        <id>https://BigCatNov18.github.io/post/jin-tian-bei-jing-de-tian-qing-liao</id>
+        <link href="https://BigCatNov18.github.io/post/jin-tian-bei-jing-de-tian-qing-liao">
+        </link>
+        <updated>2019-07-10T15:56:05.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一夜无眠]]></title>
         <id>https://BigCatNov18.github.io/post/yi-ye-wu-mian</id>
@@ -193,16 +200,6 @@
 <p>看到那两只熊了，也想起来红酒配辣子鸡。。。。还有没看完的电影呢</p>
 <p>前两天的同道巨蟹。。。到真是说的挺对的，我好像一直都是这样子
 <img src="https://BigCatNov18.github.io/post-images/1561907486061.JPG" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 13]]></title>
-        <id>https://BigCatNov18.github.io/post/day-13</id>
-        <link href="https://BigCatNov18.github.io/post/day-13">
-        </link>
-        <updated>2019-06-29T10:58:09.000Z</updated>
-        <content type="html"><![CDATA[<p>你还好么？被盗刷的损失大么？</p>
-<p>我这两天，体重又开始掉的厉害了，周二还是66.5kg，今天是64kg了。。。</p>
 ]]></content>
     </entry>
 </feed>
