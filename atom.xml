@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-07-25T02:45:55.969Z</updated>
+    <updated>2019-07-27T02:07:28.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
-    <entry>
-        <title type="html"><![CDATA[千岛湖～～]]></title>
-        <id>https://BigCatNov18.github.io/post/qian-dao-hu-~~</id>
-        <link href="https://BigCatNov18.github.io/post/qian-dao-hu-~~">
-        </link>
-        <updated>2019-07-25T02:44:48.000Z</updated>
-        <content type="html"><![CDATA[<p>算是第一次国内游吧～～</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[今天 北京的天晴了]]></title>
         <id>https://BigCatNov18.github.io/post/jin-tian-bei-jing-de-tian-qing-liao</id>
@@ -196,6 +187,19 @@
         <content type="html"><![CDATA[<p>关于我们的事情，我不是没有想，也不是简单的就要放弃，只不过有些东西，我可能还需要些时间。</p>
 <p>其实有些内容，还是想要见面谈谈。</p>
 <hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 14]]></title>
+        <id>https://BigCatNov18.github.io/post/day-14</id>
+        <link href="https://BigCatNov18.github.io/post/day-14">
+        </link>
+        <updated>2019-06-30T14:21:47.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天的私教课练的腿臀和腹，今天出效果了。效果就是坐下和起立，超级疼，坐马桶都困难的那种。</p>
+<p>上午一直起来之后在陪复习，中午之后用不到我了，就自己出去剪了个头，然后顺便回公司又打了份卷子回来她做。</p>
+<p>看到那两只熊了，也想起来红酒配辣子鸡。。。。还有没看完的电影呢</p>
+<p>前两天的同道巨蟹。。。到真是说的挺对的，我好像一直都是这样子<br>
+<img src="https://BigCatNov18.github.io/post-images/1561907486061.JPG" alt=""></p>
 ]]></content>
     </entry>
 </feed>
