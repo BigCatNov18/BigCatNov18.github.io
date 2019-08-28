@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://BigCatNov18.github.io</id>
     <title>大猫猫🐱</title>
-    <updated>2019-08-27T06:06:30.169Z</updated>
+    <updated>2019-08-28T01:33:10.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://BigCatNov18.github.io"/>
     <link rel="self" href="https://BigCatNov18.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://BigCatNov18.github.io/images/avatar.png</logo>
     <icon>https://BigCatNov18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大猫猫🐱</rights>
-    <entry>
-        <title type="html"><![CDATA[千岛湖～～]]></title>
-        <id>https://BigCatNov18.github.io/post/qian-dao-hu-~~</id>
-        <link href="https://BigCatNov18.github.io/post/qian-dao-hu-~~">
-        </link>
-        <updated>2019-07-25T02:44:48.000Z</updated>
-        <content type="html"><![CDATA[<p>算是第一次国内游吧～～<br>
-下周把方案弄完，开始整理东西！</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[千岛湖]]></title>
         <id>https://BigCatNov18.github.io/post/qian-dao-hu</id>
@@ -192,6 +182,16 @@
 <p>不知道你现在还看不看了，也不知道你还想不想看</p>
 <p>这里我会继续写下去，只不过，新的内容我会暂时隐藏起来吧。</p>
 <p>直到我们解决了问题之后</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 17]]></title>
+        <id>https://BigCatNov18.github.io/post/day-17</id>
+        <link href="https://BigCatNov18.github.io/post/day-17">
+        </link>
+        <updated>2019-07-03T00:33:16.000Z</updated>
+        <content type="html"><![CDATA[<p>该说些什么呢，其实之前想见面聊，就是希望避免晚上最后的状态吧。</p>
+<p>有些想法没有说，只是告诉了你最基本的问题。更多的希望留到见面的时候一起去讨论和解决，如果你还愿意见面的话......</p>
 ]]></content>
     </entry>
 </feed>
